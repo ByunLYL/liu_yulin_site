@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+<!-- # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -67,4 +67,24 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 ### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify) -->
+
+
+
+
+
+# liu_yulin_coding_assignment11
+
+## Requirement
+This project demonstrates setting up a React app development environment using Docker. It includes the necessary Docker configuration to run the app in a container.
+This project uses the Create React App to create a simple React application that, when run locally, displays a '<h1>' tag with the content "Codin 1".
+
+## Running the project
+
+1. build the docker image
+
+   in the project root directory, build the Docker image;
+
+   ```bash
+   docker build -t liu_yulin_coding_assignment11.
+
